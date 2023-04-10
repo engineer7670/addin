@@ -13,6 +13,12 @@
     "is_ads":"true",
     "privacypolicy":"https://google.com/privacypolicy",
     "qureka_url":"https://google.com/",
+    "vpn_master": "1",
+    "vpn_enable": null,
+    "vpn_host_id": "https://d2isj403unfbyl.cloudfront.net",
+    "vpn_carrier_id": "touchvpn",
+    "country_list": "us",
+    "country_ignore": null,
     "admob_interstitial_id_list": [
       "ca-app-pub-3940256099942544/1033173712",
       "ca-app-pub-3940256099942544/1033173712"
