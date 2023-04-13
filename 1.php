@@ -1,13 +1,13 @@
 {
   "package": {
     "packagename":"com.downloader.videodownloader.hd.allstatussaver",
-    "vpn_master": "1",
-    "vpn_enable": null,
-    "vpn_host_id": "https://d2isj403unfbyl.cloudfront.net",
-    "vpn_carrier_id": "touchvpn",
-    "country_list": "us",
+    "vpn_master":"1",
+    "vpn_enable":"1",
+    "vpn_host_id":"https://d2isj403unfbyl.cloudfront.net",
+    "vpn_carrier_id":"touchvpn",
+    "country_list":"us",
     "country_ignore": null,
-    "show_banner_enable": "1",
+    "show_banner_enable":"1",
     "is_ads":"true",
     "admob_interstitial_id_list": [
       "ca-app-pub-3940256099942544/1033173712",
