@@ -7,7 +7,7 @@
     "vpn_carrier_id":"touchvpn",
     "country_list":"us",
     "country_ignore": null,
-    "show_banner_enable":"1",
+    "show_banner_enable":"2",
     "is_ads":1,
     "admob_interstitial_id_list": [
       "/150790500,22895739856/28475_APP_INTER",
