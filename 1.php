@@ -8,7 +8,7 @@
     "country_list":"us",
     "country_ignore": null,
     "show_banner_enable":"1",
-    "is_ads":"true",
+    "is_ads": 1,
     "admob_interstitial_id_list": [
       "ca-app-pub-3940256099942544/1033173712",
       "ca-app-pub-3940256099942544/1033173712"
